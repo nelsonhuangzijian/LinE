@@ -6,7 +6,7 @@ Official implementation of [LinE: Logical Query Reasoning over Hierarchical Know
 
 **Examples**
 
-Please refer to the `example.sh` for the scripts of all 3 models on all 3 datasets.
+Please refer to the `example.sh` for the scripts of the models on all 3 datasets.
 
 **Citations**
 
