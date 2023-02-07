@@ -2,7 +2,7 @@
 
 **Examples**
 
-Please refer to the `examples.sh` for the scripts of all 3 models on all 3 datasets.
+Please refer to the `example.sh` for the scripts of all 3 models on all 3 datasets.
 
 **Citations**
 
