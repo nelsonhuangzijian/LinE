@@ -1,5 +1,9 @@
 # LinE
 
+Official implementation of [LinE: Logical Query Reasoning over Hierarchical Knowledge Graphs](https://doi.org/10.1145/3534678.3539338).
+
+[Zijian Huang](https://nelsonhuangzijian.github.io/), [Meng-Fen Chiang](https://ankechiang.github.io/), [Wang-Chien Lee](https://sites.psu.edu/wlee/), KDD 2022.
+
 **Examples**
 
 Please refer to the `example.sh` for the scripts of all 3 models on all 3 datasets.
