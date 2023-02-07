@@ -10,7 +10,7 @@ Please refer to the `example.sh` for the scripts of all 3 models on all 3 datase
 
 **Citations**
 
-If you use this repo, please cite the following paper.
+Please consider cite our paper if you find the paper and the code useful.
 
 ```
 @inproceedings{10.1145/3534678.3539338,
